@@ -194,11 +194,6 @@ button{
         align-items: center;
         width: 80%;
     }
-    .img{
-        
-
-    }
-    
 }
 
 .img{
@@ -283,11 +278,12 @@ button{
 
 .card2{
     width: 300px;
-    height: 300px;
+    height: auto;
     text-align: center;
     border-radius: 8px;
     background: #171f33;
     padding-inline: 20px;
+    padding: 20px;
     transition: 0.4s;
 }
 
